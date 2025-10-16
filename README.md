@@ -77,7 +77,7 @@ contact info** in the HTML.\
 ## 📸 Preview
 
 *(Optional: Add a screenshot or link to demo here)*\
-![Portfolio Screenshot](/assets/preview.png.png)
+![Portfolio Screenshot](/assets/preview.png)
 
 ------------------------------------------------------------------------
 
